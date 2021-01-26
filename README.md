@@ -1,0 +1,2 @@
+# Gameboy palette table
+ a
